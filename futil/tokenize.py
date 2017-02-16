@@ -2,6 +2,7 @@
 # -"- coding: utf-8 -"-
 
 from __future__ import unicode_literals
+import re
 
 def tokenize(text):
     """Tokenize text (separate tokens by spaces)"""
